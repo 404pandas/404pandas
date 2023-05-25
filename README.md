@@ -161,7 +161,7 @@
     </br>
   LinkedIn: https://linkedin.com/in/404pandas
     </br>
-  Example site: https://young-sea-98173.herokuapp.com/
+  Example site: [https://young-sea-98173.herokuapp.com/](https://example-site.herokuapp.com/)
     </br>
   Current Project: [Bluey Open Source API and Games](https://github.com/404pandas/blue-dog-api)
 
