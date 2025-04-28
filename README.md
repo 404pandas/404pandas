@@ -3,6 +3,8 @@
 
 ![pip-boy-about](https://github.com/404pandas/404pandas/assets/113853550/3606f887-1ca9-44fa-a07b-9a44bf249ce9)
 
+[![Download_My_Resume](https://img.shields.io/badge/Resume-Click_To_Download-green)](https://github.com/404pandas/react-portfolio/raw/main/client/src/assets/MaryEleniusResume.pdf)
+
 # My Tech Stack
 
 ## MERN || PERN && RESTful || GraphQL APIs
