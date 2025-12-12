@@ -7,11 +7,11 @@
 
 # My Tech Stack
 
-## MERN || PERN && RESTful || GraphQL APIs
+## MERN || PERN && RESTful || GraphQL APIs || React Native Mobile Development
 
 ## Full List of Technologies
 
-#### Updated as of 04/27/2025
+#### Updated as of 12/12/2025
 
 <table>
 <tr>
@@ -35,7 +35,9 @@
 <td>
 
 - React
+- React Native
 - Redux
+- Zustand
 - Tailwind CSS
 - Bootstrap
 - Material-UI
@@ -177,3 +179,4 @@
 🎮 **Current Project:** [Bluey Open Source API and Games](https://github.com/404pandas/blue-dog-api)
 
 </div>
+
